@@ -1,7 +1,12 @@
 # Environment Variables
 .env
+client_secret*
+*.yml
+*.yaml
+credentials*
 
 # Python
+__pycache__
 .venv
 
 # JavaScript
